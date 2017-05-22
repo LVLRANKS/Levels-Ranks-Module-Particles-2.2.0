@@ -1,0 +1,45 @@
+﻿"Phrases"
+{
+	"Trail_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Trails [{1} rank]"
+		"ru"			"Трейлы [{1} ранг]"
+	}
+	"Trail_RankOpened"
+	{
+		"en"			"Trails"
+		"ru"			"Трейлы"
+	}
+	"Aura_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Aura [{1} rank]"
+		"ru"			"Аура [{1} ранг]"
+	}
+	"Aura_RankOpened"
+	{
+		"en"			"Aura"
+		"ru"			"Аура"
+	}
+	"Trail_On"
+	{
+		"en"			"Enable Trails"
+		"ru"			"Включить Трейлы"
+	}
+	"Trail_Off"
+	{
+		"en"			"Disable Trails"
+		"ru"			"Выключить Трейлы"
+	}
+	"Aura_On"
+	{
+		"en"			"Enable Aura"
+		"ru"			"Включить Ауру"
+	}
+	"Aura_Off"
+	{
+		"en"			"Disable Aura"
+		"ru"			"Выключить Ауру"
+	}
+}
